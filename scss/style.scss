@@ -544,7 +544,9 @@
         body {
             background-image: url(../images/bg-curvy-mobile.svg);
             background-repeat: no-repeat;
-            background-size: cover;
+            background-size:100vw 600px;
+            background-position: center 500px;
+
             main {
                 header {
                     display: flex;
